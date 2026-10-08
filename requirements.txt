@@ -1,0 +1,2 @@
+redis>=4.6          # RedisCluster address_remap needs a recent redis-py
+fakeredis>=2.0      # optional: run the tests in memory

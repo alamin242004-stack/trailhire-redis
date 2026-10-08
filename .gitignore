@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Generated
+test_results.txt
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

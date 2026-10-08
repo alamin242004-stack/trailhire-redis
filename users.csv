@@ -1,0 +1,6 @@
+email,password,first_name,security_question,security_answer,rentals
+alice@example.com,Alice#2026,Alice,What was the name of your first pet?,Biscuit,TENT-2P:1|BAG-SUM:2
+ben@example.com,BenHikes99,Ben,What city were you born in?,Adelaide,PACK-65:1|STOVE-GAS:1|COOK-SET:1
+chloe@example.com,Chloe!Paddle,Chloe,What is your favourite hiking trail?,Heysen Trail,SUP-BOARD:1
+dev@example.com,DevCamp2026,Dev,What was your childhood nickname?,Dizzy,
+emma@example.com,EmmaTrek#1,Emma,What is the name of the street you grew up on?,King William Street,TENT-4P:1|MAT-INF:4|LAMP-LED:2

@@ -1,0 +1,13 @@
+item_id,name,category,daily_rate,quantity
+TENT-2P,2-Person Dome Tent,Shelter,25.00,8
+TENT-4P,4-Person Family Tent,Shelter,40.00,5
+BAG-SUM,Summer Sleeping Bag (+10C),Sleeping,12.00,12
+BAG-WIN,Winter Sleeping Bag (-5C),Sleeping,18.00,6
+MAT-INF,Inflatable Sleeping Mat,Sleeping,8.00,15
+PACK-45,45L Hiking Backpack,Packs,15.00,10
+PACK-65,65L Trekking Backpack,Packs,20.00,6
+STOVE-GAS,Portable Gas Stove,Cooking,10.00,9
+COOK-SET,Camp Cookware Set,Cooking,7.00,10
+KAYAK-1,Single Sea Kayak,Water,65.00,3
+SUP-BOARD,Stand-Up Paddleboard,Water,55.00,4
+LAMP-LED,Rechargeable LED Lantern,Lighting,5.00,20
